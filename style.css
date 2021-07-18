@@ -1,0 +1,15 @@
+.first{
+    width: 40%;
+    border: 10px solid red;
+    border-radius: 5px;
+    margin-left: 2%;
+}
+.second{width: 40%;
+    border: 10px solid red;
+    border-radius: 5px;
+    margin-left: 2%;
+
+}
+.top{
+    float: left;
+}
