@@ -3,13 +3,12 @@
     border: 10px solid red;
     border-radius: 5px;
     margin-left: 2%;
+    float: left;
 }
-.second{width: 40%;
-    border: 10px solid red;
-    border-radius: 5px;
-    margin-left: 2%;
+
 
 }
 .top{
-    float: left;
+    ;
+    margin-bottom: 1%;
 }
